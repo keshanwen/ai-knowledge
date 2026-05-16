@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://github.com/mattpocock/skills",
+    "title": "mattpocock/skills - AI 编码代理工程技能集",
+    "source": "github_trending",
+    "popularity": "Stars: 85741 (本周+18278)",
+    "summary": "TypeScript 专家 Matt Pocock 将个人 Claude Code 日常使用的 16 项工程技能开源，涵盖需求对齐（Grill-me）、架构治理（improve-codebase-architecture、zoom-out）、TDD 红绿重构循环、调试诊断流程和团队交接等完整工程实践。核心理念是小巧、可组合、可适配，不锁定工作流，强调在 AI 编程时代软件工程基本功（对齐、反馈循环、模块化设计）比以往更加重要。已支持通过 npx skills 一键安装。",
+    "highlights": [
+      "首创 Grill-me 需求对齐法，消除人机沟通鸿沟",
+      "TDD 红绿重构技能内置最佳实践指引",
+      "CONTEXT.md 共享语言机制减少 75% token 消耗"
+    ],
+    "score": 9,
+    "score_reason": "范式级工程方法论，全球 60,000+ 开发者订阅，定义 AI 编码最佳实践",
+    "tags": ["Agent", "Tool", "Open Source", "Code Gen"]
+  },
+  {
+    "url": "https://github.com/addyosmani/agent-skills",
+    "title": "addyosmani/agent-skills - 面向 AI 编码代理的生产级工程技能库",
+    "source": "github_trending",
+    "popularity": "Stars: 42244 (本周+7841)",
+    "summary": "Google 工程师 Addy Osmani 维护的生产级 AI 编码代理技能库，提供标准化、可复用的工程技能配置，涵盖前端性能优化、架构设计、代码审查等领域。与 mattpocock/skills 互补，侧重点在前端工程与 Web 性能领域，为 AI 编程助手在专业项目中发挥更大效用提供实战指引。",
+    "highlights": [
+      "Google 工程师出品，聚焦前端性能与架构",
+      "标准化可复用技能配置，降低 AI 编程门槛"
+    ],
+    "score": 8,
+    "score_reason": "高质量工程技能库，与 mattoppocock/skills 构成互补生态",
+    "tags": ["Agent", "Tool", "Open Source", "Code Gen"]
+  },
+  {
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "title": "bytedance/UI-TARS-desktop - 字节跳动开源多模态 AI Agent 平台",
+    "source": "github_trending",
+    "popularity": "Stars: 34158 (本周+3529)",
+    "summary": "字节跳动开源的多模态 AI Agent 双层架构：UI-TARS Desktop 是基于自研 UI-TARS-1.5 视觉模型的本地桌面 GUI Agent，支持自然语言控制鼠标键盘完成跨应用操作；Agent TARS 是通用多模态 Agent CLI/Web 框架，整合浏览器混合操控、MCP 协议工具链和 Event Stream 可视化调试。支持本地模型推理和远程操作，已适配火山引擎豆包、Claude 等多模型后端。",
+    "highlights": [
+      "自研 UI-TARS-1.5 视觉模型驱动，精准 GUI 操控",
+      "双层架构覆盖桌面端和通用 Agent 框架",
+      "MCP 协议集成，连接真实世界工具链"
+    ],
+    "score": 9,
+    "score_reason": "国产开源多模态 Agent 标杆，字节跳动持续投入，v0.3.0 加入 Agent Sandbox 隔离",
+    "tags": ["Agent", "Multimodal", "Open Source", "Computer Vision"]
+  },
+  {
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "title": "Hmbown/DeepSeek-TUI - DeepSeek 终端编码代理",
+    "source": "github_trending",
+    "popularity": "Stars: 30115 (本周+8701)",
+    "summary": "基于 Rust 开发的终端编码代理，专为 DeepSeek 大语言模型优化设计，支持在命令行终端中直接运行 AI 驱动的编码助手。提供轻量高效的程序开发体验，适合偏好 CLI 工作流的开发者，利用 Rust 的性能优势实现低延迟交互。",
+    "highlights": [
+      "Rust 开发，性能优异延迟极低",
+      "专为 DeepSeek 模型深度优化"
+    ],
+    "score": 7,
+    "score_reason": "轻量实用的终端 AI 编码工具，与特定模型深度绑定，市场定位清晰",
+    "tags": ["Agent", "Tool", "DeepSeek", "Code Gen"]
+  },
+  {
+    "url": "https://github.com/anthropics/financial-services",
+    "title": "anthropics/financial-services - Claude 金融服务 AI 智能体套件",
+    "source": "github_trending",
+    "popularity": "Stars: 23485 (本周+9480)",
+    "summary": "Anthropic 官方出品的 Claude 金融服务智能体参考实现，覆盖投资银行、股票研究、私募股权、财富管理和基金运营等全链条场景。包含 10 个命名工作流 Agent（如 Pitch Agent、Market Researcher、GL Reconciler），集成 11 个主流金融数据源 MCP 连接器（Bloomberg、FactSet、S&P Global 等）。支持 Cowork 插件和 Managed Agent API 双模部署，代码全部以 Markdown + YAML 定义，无构建步骤。",
+    "highlights": [
+      "10 个端到端金融工作流 Agent，开箱即用",
+      "11 个 MCP 数据连接器覆盖主流金融平台",
+      "Markdown+YAML 定义，零构建步骤即可定制"
+    ],
+    "score": 9,
+    "score_reason": "Anthropic 官方垂直行业标杆，展示 LLM Agent 在金融专业领域的完整落地路径",
+    "tags": ["Agent", "Anthropic", "Tool", "Data Analysis"]
+  },
+  {
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "title": "HKUDS/AI-Trader - 全自动 AI 原生交易智能体",
+    "source": "github_trending",
+    "popularity": "Stars: 17446 (本周+3004)",
+    "summary": "香港大学数据科学实验室推出的全自动 AI 原生交易代理系统，实现 100% 无需人工干预的智能化交易决策与执行。系统整合市场数据分析、策略生成、订单执行全流程，为量化交易和自动化投资领域提供前沿的开源解决方案。",
+    "highlights": [
+      "100% 无人干预的全自动交易闭环",
+      "港大出品，学术前沿落地开源"
+    ],
+    "score": 7,
+    "score_reason": "学术驱动的创新应用，交易场景需谨慎评估风险，实用性尚待验证",
+    "tags": ["Agent", "Open Source", "Paper", "Data Analysis"]
+  },
+  {
+    "url": "https://github.com/yikart/AiToEarn",
+    "title": "yikart/AiToEarn - 一人公司 AI 内容营销智能体",
+    "source": "github_trending",
+    "popularity": "Stars: 14158 (本周+4762)",
+    "summary": "面向独立创业者和创作者的一站式 AI 内容营销平台，通过 AI Agent 自动化实现内容创作、一键分发至国内外多个社交平台（小红书、抖音、Twitter 等）、智能化互动运营及内容变现。支持 MCP 协议和 Docker 私有化部署，定位「一人公司」AI 提效工具。",
+    "highlights": [
+      "内容创作+分发+互动+变现全链路覆盖",
+      "支持 MCP 协议与 Docker 私有化部署"
+    ],
+    "score": 6,
+    "score_reason": "实用的一人公司效率工具，AI 创新性中等，内容质量依赖模型水平",
+    "tags": ["Agent", "Tool", "Content Creation", "Open Source"]
+  },
+  {
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "title": "datawhalechina/easy-vibe - AI Vibe Coding 入门课程",
+    "source": "github_trending",
+    "popularity": "Stars: 11345 (本周+3154)",
+    "summary": "Datawhale 推出的面向零基础初学者的现代 AI 编程课程，以「会说话就会做应用」为核心理念，系统教授 Vibe Coding、Claude Code 使用、MCP 协议原理与实践、Agent 团队协作等前沿内容。包含交互式教程和完整项目实战，旨在降低 AI 编程的入门门槛。",
+    "highlights": [
+      "零基础友好，系统覆盖 Vibe Coding 全流程",
+      "Datawhale 出品，中文社区高质量开源教育"
+    ],
+    "score": 7,
+    "score_reason": "中文社区稀缺的 AI 编程系统教程，教育价值高，内容质量可靠",
+    "tags": ["Tutorial", "Code Gen", "Agent", "Open Source"]
+  },
+  {
+    "url": "https://github.com/decolua/9router",
+    "title": "decolua/9router - 免费 AI 编程模型路由工具",
+    "source": "github_trending",
+    "popularity": "Stars: 10838 (本周+5377)",
+    "summary": "免费的 AI 编程模型路由器，连接 Claude Code、Cursor、Cline、Copilot 等主流 AI 编程工具到免费的 Claude、GPT、Gemini 等模型。支持 40+ 提供商自动故障转移和令牌优化，目标让开发者实现不限次数的免费 AI 编程体验。",
+    "highlights": [
+      "40+ 模型提供商自动故障转移",
+      "让主流 AI 编程工具对接免费模型"
+    ],
+    "score": 6,
+    "score_reason": "实用的模型路由工具，降低 AI 编程成本，但依赖第三方免费模型稳定性",
+    "tags": ["Tool", "Open Source", "Code Gen"]
+  },
+  {
+    "url": "https://github.com/rohitg00/agentmemory",
+    "title": "rohitg00/agentmemory - AI 编码代理持久化记忆系统",
+    "source": "github_trending",
+    "popularity": "Stars: 9886 (本周+6865)",
+    "summary": "为 AI 编码代理设计的持久化记忆引擎，基于 ICLR 2025 权威基准 LongMemEval-S 验证，检索准确率达 R@5 95.2%。实现 4 层记忆巩固模型（工作记忆→事件记忆→语义记忆→程序记忆）、Ebbinghaus 遗忘曲线自动淘汰机制、BM25+向量+知识图谱三路召回融合。通过 MCP 协议提供 51 个记忆工具，支持 32+ AI 编码代理零配置接入，token 消耗降低 92%。",
+    "highlights": [
+      "LongMemEval-S R@5 达 95.2%，准确率行业领先",
+      "4 层记忆模型+遗忘曲线，token 节省 92%",
+      "MCP 51 工具支持 32+ 编码代理即插即用"
+    ],
+    "score": 9,
+    "score_reason": "AI Agent 记忆基础设施，权威基准验证领先，解决跨会话遗忘核心痛点",
+    "tags": ["Agent", "Tool", "Open Source", "Code Gen"]
+  }
+]

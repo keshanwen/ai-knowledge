@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-010",
+  "title": "rohitg00/agentmemory - AI 编码代理持久化记忆系统",
+  "source_url": "https://github.com/rohitg00/agentmemory",
+  "source_type": "github_trending",
+  "summary": "为 AI 编码代理设计的持久化记忆引擎，基于 ICLR 2025 权威基准 LongMemEval-S 验证，检索准确率达 R@5 95.2%。实现 4 层记忆巩固模型（工作记忆→事件记忆→语义记忆→程序记忆）、Ebbinghaus 遗忘曲线自动淘汰机制、BM25+向量+知识图谱三路召回融合。通过 MCP 协议提供 51 个记忆工具，支持 32+ AI 编码代理零配置接入，token 消耗降低 92%。",
+  "tags": ["Agent", "Tool", "Open Source", "Code Gen"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

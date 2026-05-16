@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-009",
+  "title": "decolua/9router - 免费 AI 编程模型路由工具",
+  "source_url": "https://github.com/decolua/9router",
+  "source_type": "github_trending",
+  "summary": "免费的 AI 编程模型路由器，连接 Claude Code、Cursor、Cline、Copilot 等主流 AI 编程工具到免费的 Claude、GPT、Gemini 等模型。支持 40+ 提供商自动故障转移和令牌优化，目标让开发者实现不限次数的免费 AI 编程体验。",
+  "tags": ["Tool", "Open Source", "Code Gen"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-002",
+  "title": "addyosmani/agent-skills - 面向 AI 编码代理的生产级工程技能库",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_type": "github_trending",
+  "summary": "Google 工程师 Addy Osmani 维护的生产级 AI 编码代理技能库，提供标准化、可复用的工程技能配置，涵盖前端性能优化、架构设计、代码审查等领域。与 mattpocock/skills 互补，侧重点在前端工程与 Web 性能领域，为 AI 编程助手在专业项目中发挥更大效用提供实战指引。",
+  "tags": ["Agent", "Tool", "Open Source", "Code Gen"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-007",
+  "title": "yikart/AiToEarn - 一人公司 AI 内容营销智能体",
+  "source_url": "https://github.com/yikart/AiToEarn",
+  "source_type": "github_trending",
+  "summary": "面向独立创业者和创作者的一站式 AI 内容营销平台，通过 AI Agent 自动化实现内容创作、一键分发至国内外多个社交平台（小红书、抖音、Twitter 等）、智能化互动运营及内容变现。支持 MCP 协议和 Docker 私有化部署，定位「一人公司」AI 提效工具。",
+  "tags": ["Agent", "Tool", "Content Creation", "Open Source"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

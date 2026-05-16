@@ -1,0 +1,72 @@
+[
+  {
+    "title": "mattpocock/skills - AI 编码代理工程技能集",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github_trending",
+    "popularity": "Stars: 85741 (本周+18278)",
+    "summary": "来自 TypeScript 领域知名专家 Matt Pocock 的 Claude Code 工程技能集，从个人 .claude 目录提取并开源。面向 AI 编码代理提供高质量、可复用的专业化技能配置，帮助工程师在实际项目中更高效地利用 AI 辅助编程。"
+  },
+  {
+    "title": "addyosmani/agent-skills - 面向 AI 编码代理的生产级工程技能库",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github_trending",
+    "popularity": "Stars: 42244 (本周+7841)",
+    "summary": "由 Google 工程师 Addy Osmani 维护的生产级 AI 编码代理技能库，提供标准化、可复用的工程技能配置，涵盖前端性能优化、架构设计、代码审查等领域，让 AI 编程助手在专业项目中发挥更大效用。"
+  },
+  {
+    "title": "bytedance/UI-TARS-desktop - 字节跳动开源多模态 AI Agent 平台",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "source": "github_trending",
+    "popularity": "Stars: 34158 (本周+3529)",
+    "summary": "字节跳动开源的多模态 AI Agent 桌面端平台，连接前沿 AI 模型与 Agent 基础设施，提供统一的桌面端 AI Agent 开发与运行环境，支持多模态交互和复杂任务编排。"
+  },
+  {
+    "title": "Hmbown/DeepSeek-TUI - DeepSeek 终端编码代理",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "source": "github_trending",
+    "popularity": "Stars: 30115 (本周+8701)",
+    "summary": "基于 Rust 开发的终端编码代理，专为 DeepSeek 大语言模型优化设计。支持在命令行终端中直接运行 AI 驱动的编码助手，提供轻量高效的程序开发体验，适合偏好 CLI 工作流的开发者。"
+  },
+  {
+    "title": "anthropics/financial-services - Claude 金融服务 AI 智能体套件",
+    "url": "https://github.com/anthropics/financial-services",
+    "source": "github_trending",
+    "popularity": "Stars: 23485 (本周+9480)",
+    "summary": "Anthropic 官方出品的 Claude 金融服务智能体参考实现，覆盖投资银行、股票研究、私募股权和财富管理等核心场景。提供即用型 Agent 插件和 Managed Agent API 部署方案，集成 11 个主流金融数据源。"
+  },
+  {
+    "title": "HKUDS/AI-Trader - 全自动 AI 原生交易智能体",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "source": "github_trending",
+    "popularity": "Stars: 17446 (本周+3004)",
+    "summary": "香港大学数据科学实验室推出的全自动 AI 原生交易代理系统，实现 100% 无需人工干预的智能化交易决策与执行，为量化交易和自动化投资领域提供前沿的开源解决方案。"
+  },
+  {
+    "title": "yikart/AiToEarn - 一人公司 AI 内容营销智能体",
+    "url": "https://github.com/yikart/AiToEarn",
+    "source": "github_trending",
+    "popularity": "Stars: 14158 (本周+4762)",
+    "summary": "面向独立创业者和创作者的一站式 AI 内容营销平台，通过 AI Agent 自动化实现内容创作、一键分发至国内外多个社交平台、智能化互动运营及内容变现，支持 MCP 协议和 Docker 私有化部署。"
+  },
+  {
+    "title": "datawhalechina/easy-vibe - AI Vibe Coding 入门课程",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "source": "github_trending",
+    "popularity": "Stars: 11345 (本周+3154)",
+    "summary": "Datawhale 推出的面向零基础初学者的现代 AI 编程课程，以「会说话就会做应用」为理念，系统教授 Vibe Coding、Claude Code、MCP 协议、Agent 团队协作等内容，包含交互式教程和完整项目实战。"
+  },
+  {
+    "title": "decolua/9router - 免费 AI 编程模型路由工具",
+    "url": "https://github.com/decolua/9router",
+    "source": "github_trending",
+    "popularity": "Stars: 10838 (本周+5377)",
+    "summary": "免费的 AI 编程模型路由器，可连接 Claude Code、Cursor、Cline、Copilot 等主流 AI 编程工具到免费的 Claude、GPT、Gemini 等模型，支持 40+ 提供商自动故障转移和令牌优化，实现无限次 AI 编程。"
+  },
+  {
+    "title": "rohitg00/agentmemory - AI 编码代理持久化记忆系统",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "source": "github_trending",
+    "popularity": "Stars: 9886 (本周+6865)",
+    "summary": "为 AI 编码代理设计的持久化记忆系统，基于真实世界基准测试优化。为 AI Agent 提供高效的上下文记忆管理能力，让编码代理在多轮交互中保持项目上下文和工程决策的连贯性。"
+  }
+]

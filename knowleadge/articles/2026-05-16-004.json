@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-004",
+  "title": "Hmbown/DeepSeek-TUI - DeepSeek 终端编码代理",
+  "source_url": "https://github.com/Hmbown/DeepSeek-TUI",
+  "source_type": "github_trending",
+  "summary": "基于 Rust 开发的终端编码代理，专为 DeepSeek 大语言模型优化设计，支持在命令行终端中直接运行 AI 驱动的编码助手。提供轻量高效的程序开发体验，适合偏好 CLI 工作流的开发者，利用 Rust 的性能优势实现低延迟交互。",
+  "tags": ["Agent", "Tool", "DeepSeek", "Code Gen"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

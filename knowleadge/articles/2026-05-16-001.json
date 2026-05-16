@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-001",
+  "title": "mattpocock/skills - AI 编码代理工程技能集",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "TypeScript 专家 Matt Pocock 将个人 Claude Code 日常使用的 16 项工程技能开源，涵盖需求对齐（Grill-me）、架构治理（improve-codebase-architecture、zoom-out）、TDD 红绿重构循环、调试诊断流程和团队交接等完整工程实践。核心理念是小巧、可组合、可适配，不锁定工作流，强调在 AI 编程时代软件工程基本功比以往更加重要。已支持通过 npx skills 一键安装。",
+  "tags": ["Agent", "Tool", "Open Source", "Code Gen"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

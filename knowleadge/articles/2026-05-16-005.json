@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-005",
+  "title": "anthropics/financial-services - Claude 金融服务 AI 智能体套件",
+  "source_url": "https://github.com/anthropics/financial-services",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方出品的 Claude 金融服务智能体参考实现，覆盖投资银行、股票研究、私募股权、财富管理和基金运营等全链条场景。包含 10 个命名工作流 Agent（如 Pitch Agent、Market Researcher、GL Reconciler），集成 11 个主流金融数据源 MCP 连接器（Bloomberg、FactSet、S&P Global 等）。支持 Cowork 插件和 Managed Agent API 双模部署，代码全部以 Markdown + YAML 定义，无构建步骤。",
+  "tags": ["Agent", "Anthropic", "Tool", "Data Analysis"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

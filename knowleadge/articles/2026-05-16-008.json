@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-16-008",
+  "title": "datawhalechina/easy-vibe - AI Vibe Coding 入门课程",
+  "source_url": "https://github.com/datawhalechina/easy-vibe",
+  "source_type": "github_trending",
+  "summary": "Datawhale 推出的面向零基础初学者的现代 AI 编程课程，以「会说话就会做应用」为核心理念，系统教授 Vibe Coding、Claude Code 使用、MCP 协议原理与实践、Agent 团队协作等前沿内容。包含交互式教程和完整项目实战，旨在降低 AI 编程的入门门槛。",
+  "tags": ["Tutorial", "Code Gen", "Agent", "Open Source"],
+  "status": "reviewed",
+  "created_at": "2026-05-16T10:30:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}
