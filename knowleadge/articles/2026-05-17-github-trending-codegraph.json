@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-17-github-trending-codegraph",
+  "title": "colbymchenry/codegraph - AI 编码知识图谱预索引",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "source_type": "github_trending",
+  "summary": "为 Claude Code 设计的代码知识图谱，tree-sitter AST 构建符号关系图，实测工具调用减少 94%、探索速度提升 77%，19+ 语言支持，100% 本地 SQLite",
+  "tags": ["Agent", "Tool", "Open Source", "Code Gen", "Knowledge Graph"],
+  "status": "published",
+  "created_at": "2026-05-17T09:45:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

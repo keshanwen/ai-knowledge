@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-17-github-trending-openhuman",
+  "title": "tinyhumansai/openhuman - 桌面端个人 AI 超级智能",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "Rust 构建的 Tauri 桌面 AI 助手，记忆树+Obsidian 知识库自动构建、118+ OAuth 集成、TokenJuice 压缩节省 80% token，20 分钟自动同步外部数据实现全知上下文",
+  "tags": ["Agent", "Tool", "Open Source", "Memory", "Personal Assistant"],
+  "status": "published",
+  "created_at": "2026-05-17T09:45:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

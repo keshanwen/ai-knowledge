@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-17-github-trending-superpowers",
+  "title": "obra/superpowers - AI 编码代理开发方法论",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github_trending",
+  "summary": "195k⭐的 Agent Skills 方法论集，定义从需求对齐到子代理派发到 TDD 到代码审查的全流程自动化软件工程实践，支持 Claude Code/Codex/Cursor/Gemini/OpenCode",
+  "tags": ["Agent", "Tool", "Open Source", "Code Gen", "Framework"],
+  "status": "published",
+  "created_at": "2026-05-17T09:45:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

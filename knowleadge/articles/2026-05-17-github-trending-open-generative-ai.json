@@ -1,0 +1,15 @@
+{
+  "id": "2026-05-17-github-trending-open-generative-ai",
+  "title": "Anil-matcha/Open-Generative-AI - 开源 AI 图像视频生成工作室",
+  "source_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "source_type": "github_trending",
+  "summary": "开源 AI 视觉内容创作平台，集成 200+ 模型（Flux/Sora/Kling 等），无内容过滤，支持自托管部署，定位商用平台的免费替代方案",
+  "tags": ["Tool", "Open Source", "Content Creation", "Diffusion"],
+  "status": "reviewed",
+  "created_at": "2026-05-17T09:45:00+08:00",
+  "push_channels": ["telegram", "feishu"],
+  "push_status": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

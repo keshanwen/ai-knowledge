@@ -1,0 +1,114 @@
+{
+  "source": "github_trending",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-05-17T09:45:00+08:00",
+  "total": 6,
+  "trends": [
+    {
+      "theme": "Agent Skills 标准化生态加速形成",
+      "description": "继昨日 mattpocock/skills 和 addyosmani/agent-skills 后，今日 obra/superpowers (195k⭐) 和 K-Dense-AI/scientific-agent-skills 进一步将 Agent Skills 从编程领域扩展到全科学生态。Agent Skills 标准化正从「个人最佳实践」向「行业基础设施」演进",
+      "evidence": ["obra/superpowers", "K-Dense-AI/scientific-agent-skills"]
+    },
+    {
+      "theme": "AI 编程上下文基础设施从记忆到知识图谱",
+      "description": "昨日 agentmemory 关注跨会话记忆持久化，今日 codegraph 更进一步——将代码库预索引为符号级知识图谱，实现 94% 工具调用减少和 77% 速度提升。AI 编程的上下文构建正从「事后记忆」转向「事前索引」",
+      "evidence": ["colbymchenry/codegraph"]
+    },
+    {
+      "theme": "个人 AI Agent 桌面向「超级智能」演进",
+      "description": "openhuman 将 Agent 从单一编程助手升级为全场景个人 AI：118+ OAuth 集成、自动数据同步、记忆树+Obsidian 知识库，Rust/Tauri 架构确保隐私和性能，标志着桌面 AI Agent 进入「全知上下文」时代",
+      "evidence": ["tinyhumansai/openhuman"]
+    }
+  ],
+  "items": [
+    {
+      "url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers - AI 编码代理开发方法论",
+      "source": "github_trending",
+      "popularity": "Stars: 194503 (今日+1305)",
+      "summary": "195k⭐的 Agent Skills 方法论集，定义从需求对齐到子代理派发到 TDD 到代码审查的全流程自动化软件工程实践，支持 Claude Code/Codex/Cursor/Gemini/OpenCode",
+      "highlights": [
+        "子代理驱动开发可自主工作数小时不偏航",
+        "强制 TDD 红绿重构，删除测试前代码",
+        "一次安装支持 7 个主流 AI 编码平台"
+      ],
+      "score": 9,
+      "score_reason": "195k⭐行业最高热度，定义 AI 编码流程新范式，多平台兼容成为事实标准",
+      "tags": ["Agent", "Tool", "Open Source", "Code Gen", "Framework"]
+    },
+    {
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills - 科研领域 Agent Skills 集合",
+      "source": "github_trending",
+      "popularity": "Stars: 23458 (今日+673)",
+      "summary": "135 项即用型科研 Agent Skills，覆盖生物学、药物发现、量子计算等 17 个领域，集成 100+ 数据库，可将桌面 AI 编码代理转化为 AI 科学家",
+      "highlights": [
+        "135 个科研领域 Skill，遵循开放 Agent Skills 标准",
+        "100+ 数据库统一接入，含 PubChem/ChEMBL/UniProt",
+        "支持 Cursor/Claude Code/Codex 桌面端即用"
+      ],
+      "score": 8,
+      "score_reason": "将 Agent Skills 从编程拓展到全科研领域，17 个学科覆盖，切实提升科研效率",
+      "tags": ["Agent", "Tool", "Open Source", "Framework", "Paper"]
+    },
+    {
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman - 桌面端个人 AI 超级智能",
+      "source": "github_trending",
+      "popularity": "Stars: 11318 (今日+1549)",
+      "summary": "Rust 构建的 Tauri 桌面 AI 助手，记忆树+Obsidian 知识库自动构建、118+ OAuth 集成、TokenJuice 压缩节省 80% token，20 分钟自动同步外部数据实现全知上下文",
+      "highlights": [
+        "记忆树+Obsidian 可编辑知识库自动构建",
+        "118+ OAuth 一键集成（Gmail/GitHub/Slack 等）",
+        "TokenJuice 压缩节省 80% token 成本"
+      ],
+      "score": 8,
+      "score_reason": "桌面 AI 助手品类中集成度最高，记忆树+自动数据同步构建持久上下文",
+      "tags": ["Agent", "Tool", "Open Source", "Memory", "Personal Assistant"]
+    },
+    {
+      "url": "https://github.com/colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph - AI 编码知识图谱预索引",
+      "source": "github_trending",
+      "popularity": "Stars: 2853 (今日+416)",
+      "summary": "为 Claude Code 设计的代码知识图谱，tree-sitter AST 构建符号关系图，实测工具调用减少 94%、探索速度提升 77%，19+ 语言支持，100% 本地 SQLite",
+      "highlights": [
+        "实测 tool calls -94%，探索速度 +77%",
+        "19+ 语言、13 种 Web 框架路由识别",
+        "文件监听自动增量同步，零配置"
+      ],
+      "score": 8,
+      "score_reason": "AI 编码上下文基础设施，94% 效率提升实打实，填补代码探索空白",
+      "tags": ["Agent", "Tool", "Open Source", "Code Gen", "Knowledge Graph"]
+    },
+    {
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "title": "Anil-matcha/Open-Generative-AI - 开源 AI 图像视频生成工作室",
+      "source": "github_trending",
+      "popularity": "Stars: 14697 (今日+317)",
+      "summary": "开源 AI 视觉内容创作平台，集成 200+ 模型（Flux/Sora/Kling 等），无内容过滤，支持自托管部署，定位商用平台的免费替代方案",
+      "highlights": [
+        "200+ 模型集成，涵盖 Flux/Sora/Kling/Veo",
+        "无内容过滤，自托管完全自由创作",
+        "MIT 协议开源，一站式图像视频生成"
+      ],
+      "score": 6,
+      "score_reason": "实用工具但创新性有限，本质是模型聚合+UI 层，技术门槛不高",
+      "tags": ["Tool", "Open Source", "Content Creation", "Diffusion"]
+    },
+    {
+      "url": "https://github.com/supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic - 端侧多语言 TTS 引擎",
+      "source": "github_trending",
+      "popularity": "Stars: 7152 (今日+749)",
+      "summary": "基于 ONNX 的端侧 TTS 引擎，多语言、低延迟、完全离线运行，Swift 编写优化 Apple 生态，适合隐私敏感场景和移动端 AI 语音部署",
+      "highlights": [
+        "ONNX 运行时实现完全离线本地推理",
+        "多语言支持，极速低延迟 TTS"
+      ],
+      "score": 6,
+      "score_reason": "实用的端侧 TTS 方案，技术扎实但应用范围局限于语音合成，与 LLM Agent 关联弱",
+      "tags": ["Tool", "Open Source", "Inference", "Multilingual"]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-17T09:30:00+08:00",
+  "note": "今日 daily trending 中 AI 相关仓库仅 6 个通过过滤，未达最低 10 个目标。明日可补充 weekly 趋势数据。",
+  "items": [
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "summary": "Jesse Vincent 开发的一套完整 AI 编码代理开发方法论，基于可组合技能系统。从需求对齐（brainstorming）→ 实现计划（writing-plans）→ 子代理驱动开发（subagent-driven-development）→ TDD 红绿重构 → 代码审查 → 分支合并，形成全流程自动化的软件工程实践。核心理念是代理不应直接跳入编码，而是先理解需求、制定计划，再通过子代理分派任务执行。支持 Claude Code、Codex、Cursor、Gemini CLI、OpenCode 等主流平台。",
+      "language": "Shell",
+      "stars": 194503,
+      "forks": 17290,
+      "today_stars": 1305,
+      "topics": ["agent", "skills", "tdd", "development-methodology"],
+      "license": "MIT"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "summary": "K-Dense 推出的面向科研领域的 AI Agent 技能集合，包含 135 项即用型科学技能，覆盖生物信息学、药物发现、蛋白质组学、医学影像、多组学分析、量子计算等 17 个科学领域。集成 100+ 科学数据库（PubChem、ChEMBL、UniProt 等），提供 70+ 优化 Python 包技能。遵循开放 Agent Skills 标准，支持 Cursor、Claude Code、Codex 等主流 AI 编码代理，可在桌面上构建 AI 科学家。",
+      "language": "Python",
+      "stars": 23458,
+      "forks": 2510,
+      "today_stars": 673,
+      "topics": ["agent", "scientific", "skills", "bioinformatics", "drug-discovery"],
+      "license": "MIT"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "summary": "开源的 AI 图像与视频生成工作室，集成 200+ 模型（Flux、Midjourney 接口、Kling、Sora、Veo 等），提供无内容过滤的自由创作平台。支持自托管部署，MIT 协议开源，定位为商用 AI 视频平台的免费替代方案，适合需要高自由度 AI 视觉内容生成的创作者和开发者。",
+      "language": "JavaScript",
+      "stars": 14697,
+      "forks": 2549,
+      "today_stars": 317,
+      "topics": ["ai", "diffusion", "image-generation", "video-generation"],
+      "license": "MIT"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "summary": "开源的桌面端个人 AI 超级智能助手，以 Rust 构建的 Tauri 桌面应用提供轻量、私密的 AI 体验。核心特性包括记忆树（Memory Tree）+ Obsidian 知识库自动构建、118+ OAuth 一键集成（Gmail、GitHub、Slack、Notion 等）、20 分钟自动拉取外部数据同步、TokenJuice 压缩层减少 80% token 消耗、原生语音交互及桌面吉祥物形象。支持代理记忆后端对接 agentmemory，数据完全本地处理。",
+      "language": "Rust",
+      "stars": 11318,
+      "forks": 988,
+      "today_stars": 1549,
+      "topics": ["agent", "ai", "desktop", "personal-assistant", "memory"],
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "summary": "Supertone 推出的极速端侧多语言 TTS 引擎，基于 ONNX 运行时实现原生本地推理，无需云端调用即可完成文本转语音。支持多语言，主打低延迟与完全离线运行，适合隐私敏感场景和移动端部署。Swift 编写，面向 Apple 生态优化，为 AI 语音合成提供了高效的端侧解决方案。",
+      "language": "Swift",
+      "stars": 7152,
+      "forks": 735,
+      "today_stars": 749,
+      "topics": ["tts", "onnx", "ai", "speech", "multilingual"],
+      "license": null
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "summary": "为 Claude Code 设计的预索引代码知识图谱工具，通过 tree-sitter AST 解析提取代码符号关系（函数调用、类继承、导入依赖），构建本地 SQLite 图数据库。实测效果显著：工具调用减少 94%、探索速度提升 77%。支持 19+ 编程语言、13 种 Web 框架路由识别、文件监听自动增量同步，100% 本地运行无数据外泄，是 AI 编码上下文构建的基础设施级工具。",
+      "language": "TypeScript",
+      "stars": 2853,
+      "forks": 233,
+      "today_stars": 416,
+      "topics": ["code-graph", "claude-code", "knowledge-graph", "mcp", "agent"],
+      "license": "MIT"
+    }
+  ]
+}
