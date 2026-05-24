@@ -27,7 +27,7 @@ REQUIRED_FIELDS: dict[str, type] = {
 
 VALID_STATUSES = frozenset({"draft", "review", "published", "archived"})
 VALID_AUDIENCES = frozenset({"beginner", "intermediate", "advanced"})
-ID_PATTERN = re.compile(r"^[a-z][a-z0-9_]*-\d{8}-\d{3}$")
+ID_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}-\d{3}$")
 URL_PATTERN = re.compile(r"^https?://")
 MIN_SUMMARY_LENGTH = 20
 MIN_TAGS_COUNT = 1
@@ -113,8 +113,8 @@ def validate_file(filepath: Path) -> list[str]:
     if not ID_PATTERN.match(str(data["id"])):
         errors.append(
             f"ID 格式错误: {data['id']}，"
-            f"期望格式 {{source}}-{{YYYYMMDD}}-{{NNN}}"
-            f"（如 github-20260317-001）"
+            f"期望格式 {{YYYY}}-{{MM}}-{{DD}}-{{NNN}}"
+            f"（如 2026-03-17-001）"
         )
 
     status = str(data["status"])
